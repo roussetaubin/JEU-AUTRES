@@ -1,0 +1,12 @@
+{
+  "name": "jeux-hub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hub des jeux de King : catalogue automatique + code des jeux finis.",
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

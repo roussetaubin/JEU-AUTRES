@@ -1,0 +1,38 @@
+{
+  "jeux": [
+    {
+      "slug": "echo",
+      "nom": "ECHO",
+      "repo": "roussetaubin/Jeu",
+      "statut": "en-cours"
+    },
+    {
+      "slug": "chaos-courrier",
+      "nom": "Chaos Courrier",
+      "repo": "roussetaubin/Courrier-chaos",
+      "statut": "en-cours"
+    }
+  ],
+  "contexte": [
+    {
+      "repo": "roussetaubin/Apprentissage",
+      "role": "méthode de création de jeux, marché, promotion (à lire avant tout travail de distribution)"
+    }
+  ],
+  "exclure_par_defaut": [
+    ".git",
+    ".github",
+    ".gitattributes",
+    "node_modules",
+    "dist",
+    "dist-*",
+    "docs",
+    "CLAUDE.md",
+    "AUDIT_*",
+    "*.bat",
+    "*.zip",
+    "*.mp4",
+    "*.mov",
+    "*.log"
+  ]
+}
