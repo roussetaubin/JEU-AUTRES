@@ -5,8 +5,8 @@
 
 | Jeu | État | Dernier changement | Dernière activité | Code ici |
 |---|---|---|---|---|
-| ECHO | En cours ⚠ erreur | — | — | — |
-| Chaos Courrier | En cours ⚠ erreur | — | — | — |
+| [ECHO](https://github.com/roussetaubin/ECHO) | En cours | Merge pull request #11 from roussetaubin/qualite-5-verification | 2026-11-21 | — |
+| [Chaos Courrier](https://github.com/roussetaubin/Courrier-chaos) | En cours | Merge pull request #3 from roussetaubin/claude/chaos-courier-mobile-ga | 2026-11-20 | — |
 
 - **En cours** : le code reste dans le repo du jeu, le hub ne fait que le suivre.
 - **Fini / Publié** : le code du jeu (sans rapports, scripts `.bat`, docs…) est copié dans `jeux/<jeu>/` et reste à jour.
@@ -15,8 +15,3 @@
 ## Contexte lié
 
 - [roussetaubin/Apprentissage](https://github.com/roussetaubin/Apprentissage) : méthode de création de jeux, marché, promotion (à lire avant tout travail de distribution)
-
-## Erreurs de la dernière synchronisation
-
-- **ECHO** : GitHub 403 sur /repos/roussetaubin/Jeu/commits/main (le jeton GAMES_TOKEN a-t-il accès à ce repo ?)
-- **Chaos Courrier** : GitHub 403 sur /repos/roussetaubin/Courrier-chaos/commits/main (le jeton GAMES_TOKEN a-t-il accès à ce repo ?)

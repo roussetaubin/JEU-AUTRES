@@ -5,17 +5,37 @@
       "slug": "echo",
       "nom": "ECHO",
       "repo": "roussetaubin/Jeu",
-      "code": null,
       "statut": "en-cours",
-      "erreur": "GitHub 403 sur /repos/roussetaubin/Jeu/commits/main (le jeton GAMES_TOKEN a-t-il accès à ce repo ?)"
+      "url": "https://github.com/roussetaubin/ECHO",
+      "description": "",
+      "langage": "JavaScript",
+      "prive": true,
+      "branche": "main",
+      "derniere_activite": "2026-11-21T15:13:30Z",
+      "dernier_commit": {
+        "sha": "0a8c4561cf84157d223d2faa1538b97e3f3d00e0",
+        "message": "Merge pull request #11 from roussetaubin/qualite-5-verification",
+        "date": "2026-11-21T15:13:30Z"
+      },
+      "code": null
     },
     {
       "slug": "chaos-courrier",
       "nom": "Chaos Courrier",
       "repo": "roussetaubin/Courrier-chaos",
-      "code": null,
       "statut": "en-cours",
-      "erreur": "GitHub 403 sur /repos/roussetaubin/Courrier-chaos/commits/main (le jeton GAMES_TOKEN a-t-il accès à ce repo ?)"
+      "url": "https://github.com/roussetaubin/Courrier-chaos",
+      "description": "",
+      "langage": "JavaScript",
+      "prive": true,
+      "branche": "main",
+      "derniere_activite": "2026-11-20T09:14:59Z",
+      "dernier_commit": {
+        "sha": "d9ec62fee913219ef53b739405ed4f1166e2dc14",
+        "message": "Merge pull request #3 from roussetaubin/claude/chaos-courier-mobile-game-cohvmr",
+        "date": "2026-11-17T19:00:04Z"
+      },
+      "code": null
     }
   ]
 }
