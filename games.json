@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "jeux": [
+    {
+      "slug": "echo",
+      "nom": "ECHO",
+      "repo": "roussetaubin/Jeu",
+      "code": null,
+      "statut": "en-cours",
+      "erreur": "GitHub 403 sur /repos/roussetaubin/Jeu/commits/main (le jeton GAMES_TOKEN a-t-il accès à ce repo ?)"
+    },
+    {
+      "slug": "chaos-courrier",
+      "nom": "Chaos Courrier",
+      "repo": "roussetaubin/Courrier-chaos",
+      "code": null,
+      "statut": "en-cours",
+      "erreur": "GitHub 403 sur /repos/roussetaubin/Courrier-chaos/commits/main (le jeton GAMES_TOKEN a-t-il accès à ce repo ?)"
+    }
+  ]
+}
